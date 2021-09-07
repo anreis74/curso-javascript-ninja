@@ -112,7 +112,7 @@ retornar algum valor.
 
 Qual a cor atual do carro?
 */
-?
+carro.cor; // cinza
 
 // Mude a cor do carro para vermelho.
 ?
